@@ -49,3 +49,9 @@ The wedge has external data behind it (40% vs 10% close rate from spec-site pitc
   4. Walk-ins first, cold email after revenue funds compute
 - All phases completed in a single ~3-hour session via Fast Track mode
 - Brand (Phase 5) and Product (Phase 6) deliberately skipped — revisit only if validation passes
+
+## Pivot Exploration (2026-05-11)
+
+- Founder asked: best city + industry if NOT Singapore + restaurants → answered **US Sunbelt metro + med spas / aesthetic clinics**
+- A focused validation pass on that pivot lives in `../ai-website-us-medspas/` — verdict **5.0/10, CONDITIONAL** (a lateral move: fixes low ACV + PSG distortion, but introduces a saturated US agency market + offshore-operational friction; competitive advantage and founder-market fit slightly *worse* than this SG version)
+- If forced to choose now without a pilot: marginally prefer staying with SG-restaurants (lower friction, validation path already mapped). Best: run a ~30-day pilot before deciding either way.
